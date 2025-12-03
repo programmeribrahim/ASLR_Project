@@ -1,2 +1,2 @@
 print(" مرحبمبو ابو جلمبو")
-print("edited by abdullah")
+print("edited by ibrahim")
